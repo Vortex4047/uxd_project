@@ -1,0 +1,6 @@
+{
+  "name": "AURA - Mood Discovery",
+  "description": "Atmospheric audiophile mood discovery platform bridging deep auditory moods with real-time soundscapes and psychoacoustic telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
